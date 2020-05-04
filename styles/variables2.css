@@ -1,0 +1,12 @@
+:root {
+  --bg-color: #f6f6f6;
+  --ft-color: #efefef;
+  --a-color:black;
+  --form-color:white;
+
+  --btn-bg: white;
+  --txt-color:black;
+}
+.header .tool_bar {
+  filter: invert(1);
+}
